@@ -10,11 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   google_api_headers: ^2.0.2
-  google_maps_webservice:
-    git:
-        url: https://github.com/gnomezgrave/google_maps_webservice.git
-        ref: master # branch name
-  http: ^1.0.0
+  google_maps_webservice: ^0.0.20-nullsafety.5
+  http: ^0.13.6
   rxdart: ^0.27.7
 
 dev_dependencies:
